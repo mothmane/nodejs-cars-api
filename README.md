@@ -2,7 +2,7 @@
 
 ## Description
 
-A NodeJs demo Restfull application with Jest Unit Tests done with  [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+A NodeJs Dockerized demo Restfull application with Jest Unit Tests created with  [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 the api is exposing the urls :
 ```bash
